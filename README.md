@@ -13,7 +13,7 @@
    ```
 
 2. **Ejecuta la aplicación.**  
-   En una terminal ubicada en la raíz de este proyecto, ejecuta el siguiente comando:
+   En una terminal ubicada en la raíz de este proyecto, ejecuta la siguiente orden:
 
    ```bash
    ./gradlew bootRun
@@ -21,7 +21,7 @@
    
 ## Pruebas con Postman
 
-Dentro de este proyecto verás el archivo `API Examen.postman_collection.json`, el cual puedes importar en Postman. Sigue los pasos en el orden indicado:
+Dentro de este proyecto verás el archivo `API Examen.postman_collection.json`, el cual debes importar en Postman. Una vez dentro sigue los siguientes pasos:
 
 ### 1. Registrar Usuario
 
